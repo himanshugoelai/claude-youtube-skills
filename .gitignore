@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+phone-check.png
+*.json
+!dist/
+.env
